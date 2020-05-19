@@ -1,0 +1,7 @@
+{
+  "name": "insta-share",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
